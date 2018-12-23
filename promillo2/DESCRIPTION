@@ -1,0 +1,14 @@
+Package: promillo2
+Title: Calculate the blood alcohol concentration
+Version: 0.0.0.9000
+Authors@R: person("Fred", "3000", email = "fred3000@example.com", role = c("aut", "cre"))
+Description: Calculate the blood alcohol concentration for any person, with respect to the persons attribute! 
+             also do plots of the progress of the alcoholic concentration in the blood!
+Depends: R (>= 3.5),
+         checkmate (>= 1.8.5),
+         ggplot2 (>= 3.1.0)
+License: None
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.1.1
